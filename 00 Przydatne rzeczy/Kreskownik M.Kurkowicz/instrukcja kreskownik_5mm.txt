@@ -1,0 +1,11 @@
+Autor: Marcin Kurkowicz 
+
+------Kreskownik Instrukcja-------------------
+Kreski rysować tylko z jednej strony każdego żeberka,
+w taki sposób będą oddalone o równą odległość od siebie.
+
+Drukować w skali 100% dla kresek oddalonych o
+7mm od siebie, w skali 80% dla kresek oddalonych o 5 mm.
+
+Najlepsze efekty daje drukowanie za pomocą sztywnego filamentu,
+PLA lub PETG.
